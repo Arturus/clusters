@@ -1,21 +1,12 @@
 
 **35mm**
-<<<<<<< HEAD
 filmphotography filmisnotdead analog polaroid analogphotography leica ishootfilm kodak analogue 35mmfilm shootfilm pentax staybrokeshootfilm filmcamera mediumformat believeinfilm filmcommunity buyfilmnotmegapixels filmfeed instax thefilmcommunity lomography keepfilmalive analoguevibes ilford istillshootfilm grain hasselblad filmphotographic
  [145 more...](35mm.txt)
-=======
-filmphotography filmisnotdead analog polaroid analogphotography leica ishootfilm kodak analogue 35mmfilm shootfilm pentax staybrokeshootfilm filmcamera mediumformat believeinfilm filmcommunity buyfilmnotmegapixels filmfeed instax thefilmcommunity lomography keepfilmalive analoguevibes ilford istillshootfilm grain hasselblad filmphotographic [145 more...](35mm.txt)
->>>>>>> da12e39c5fdcd1489e3d0f2bde20ef897417d98a
 
 ___
-##### 3d
 **3d**
-<<<<<<< HEAD
 render motion rendering cinema4d c4d 2d cgi 3dmodel vfx cg blender vray zbrush 3dsmax autodesk 3dmodeling octane blender3d mograph visualeffects 3danimation 3drender 3dmax 3drendering 3dvisualization octanerender 3dartist mdcommunity keyshot
  [11 more...](3d.txt)
-=======
-render motion rendering cinema4d c4d 2d cgi 3dmodel vfx cg blender vray zbrush 3dsmax autodesk 3dmodeling octane blender3d mograph visualeffects 3danimation 3drender 3dmax 3drendering 3dvisualization octanerender 3dartist mdcommunity keyshot [11 more...](3d.txt)
->>>>>>> da12e39c5fdcd1489e3d0f2bde20ef897417d98a
 
 ___
 **4x4**
